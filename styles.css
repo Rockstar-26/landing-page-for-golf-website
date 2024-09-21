@@ -71,7 +71,7 @@ video{
 }
 
 #page1 h1{
-    font-size:150px;
+    font-size:120px;
     font-weight:900;
     position: relative;
     /* color:#95c11e */
@@ -86,10 +86,10 @@ video{
     z-index:-1;
 }
 #page1 h2{
-    font-size:50px;
+    font-size:35px;
 }
 #page1 p{
-    font-size:25px;
+    font-size:20px;
     width:35%;
     text-align: center;
     margin-top:10px;
